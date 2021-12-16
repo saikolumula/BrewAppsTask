@@ -1,0 +1,6 @@
+framework module Pods_BrewAppsTask {
+  umbrella header "Pods-BrewAppsTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
